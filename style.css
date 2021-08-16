@@ -1,0 +1,30 @@
+html{
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background: rgb(236, 235, 235);
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.nome{
+    text-align: center;
+}
+
+.dados{
+    text-align: right;
+}
+
+.well{
+    padding: 25px ;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    background: white;
+    border: solid 1px;
+    border-radius: 10px;
+}
